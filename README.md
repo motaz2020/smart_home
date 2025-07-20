@@ -2,7 +2,7 @@
 
 A project designed to make home automation and smart control accessible, integrating sensors, actuators, and digital routines for a smarter living environment.
 
-## ** Overview **
+## **Overview**
 Goal: Simplify digital control over home appliances and environmental monitoring.
 
 ## **Core Functions**
