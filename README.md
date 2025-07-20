@@ -1,11 +1,33 @@
 # smart_home
 
-2. Project's description
-    This project is aiming to get a smart with digital uses to get some ordes much easier.
+A project designed to make home automation and smart control accessible, integrating sensors, actuators, and digital routines for a smarter living environment.
 
-4. How to install and run the project.
-- software requirements (libraries    SoftwareSerial.h,Servo.h and DHT.h)
-- hardware requiremnts (servo motor, temp. sensor,fan, line detector  and microphone)
+## ** Overview **
+Goal: Simplify digital control over home appliances and environmental monitoring.
 
-6. Include credits.
-   my teammate Muhammed Ismail at faculty of ENgineering Ain Shams University
+## ** Core Functions: **
+
+Sensor integration (temperature, line detection, microphones).
+
+Actuator controls (servos, fans, etc.).
+
+Implements logic for automatic response to sensor data.
+
+## **Requirements**
+Software:
+
+Libraries: SoftwareSerial.h, Servo.h, DHT.h
+
+Hardware:
+
+Servo Motor, Temperature Sensor, Fan, Line Detector, Microphone
+
+## **How To Run**
+Install libraries and assemble hardware as per the requirements.
+
+Upload code through Arduino IDE with required libraries installed.
+
+Test each module separately, then operate the integrated system.
+
+## **Credits**
+Developed by Moataz and teammate Muhammed Ismail at Faculty of Engineering, Ain Shams University.
