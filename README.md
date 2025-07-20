@@ -5,7 +5,7 @@ A project designed to make home automation and smart control accessible, integra
 ## ** Overview **
 Goal: Simplify digital control over home appliances and environmental monitoring.
 
-## ** Core Functions: **
+## **Core Functions**
 
 Sensor integration (temperature, line detection, microphones).
 
